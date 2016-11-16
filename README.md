@@ -6,6 +6,8 @@
 
  cd Source 
  javac *.java 
+ 
+ 
  java CountryRunner 
 
  After complete your execution you can simply delete the created class file again using following command line 
